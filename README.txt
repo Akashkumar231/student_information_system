@@ -1,4 +1,4 @@
-## Student Information System
+### Student Information System
 
 ### Overview
 The Student Information System is a Java desktop application designed to manage student records. It allows users to add, update, delete, and retrieve student information using a graphical user interface (GUI).
