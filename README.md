@@ -34,4 +34,3 @@ The Student Information System is a Java desktop application designed to manage 
 Contributions to enhance the GUI design or add new features are welcome! Feel free to fork the repository and submit pull requests.
 
 
-
