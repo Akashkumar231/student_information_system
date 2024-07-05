@@ -1,0 +1,22 @@
+Features:
+
+Student Record Management:
+Add, update, delete, and view student records.
+
+Grade Management:
+Record and view student grades.
+
+Attendance Management:
+Record and view student attendance.
+
+File I/O:
+Store student data, grades, and attendance in files.
+
+Serialization:
+Serialize and deserialize student records for persistence.
+
+Multithreading:
+Handle concurrent access and operations on student records.
+
+OOP:
+Design using classes such as Student, Grade, Attendance, and School.

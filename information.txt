@@ -1,0 +1,21 @@
+
+Step 1: Define Classes
+Student Class:
+
+Attributes: id, firstName, lastName, dateOfBirth, address, grades, attendance.
+Methods: addGrade(), getGrades(), markAttendance(), getAttendance(), etc.
+
+Grade Class:
+
+Attributes: subject, grade.
+Methods: Getters and Setters.
+
+Attendance Class:
+
+Attributes: date, status.
+Methods: Getters and Setters.
+
+School Class:
+
+Attributes: List<Student> students.
+Methods: addStudent(), removeStudent(), updateStudent(), getStudent(), etc.
